@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`c10df04`](https://github.com/stdlib-js/stdlib/commit/c10df047e12919f5abf97e075ba31a2f9b98cf84) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`bdb69bc`](https://github.com/stdlib-js/stdlib/commit/bdb69bc8265ae8d652cfac41840569e1a20726f3) - **test:** fix missing function argument _(by Athan Reines)_
 -   [`87d0fae`](https://github.com/stdlib-js/stdlib/commit/87d0faeb87ce6a1190289605dbed97d168d3d46e) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`9e0a066`](https://github.com/stdlib-js/stdlib/commit/9e0a0664d313b17adcad1731477a218a77151d47) - **refactor:** update paths _(by Aayush Khanna)_
@@ -38,10 +39,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
+-   Gururaj Gurram
 
 </section>
 
