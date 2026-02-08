@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import smskmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-smskmax@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-strided-smskmax/tags). For example,
+
+```javascript
 import smskmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-smskmax@v0.1.1-deno/mod.js';
 ```
 
@@ -161,7 +166,7 @@ var v = smskmax.ndarray( 4, x, 2, 1, mask, 2, 1 );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-bernoulli@deno/mod.js';
-import smskmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-smskmax@v0.1.1-deno/mod.js';
+import smskmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-smskmax@deno/mod.js';
 
 var uniformOptions = {
     'dtype': 'float32'
